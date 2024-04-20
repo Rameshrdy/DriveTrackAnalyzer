@@ -11,5 +11,5 @@ This project uses OpenCV to detect and track the speed of cars in a video stream
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/speed-detection-opencv.git
+   git clone https://github.com/Rameshrdy/DriveTrackAnalyzer
    cd speed-detection-opencv
